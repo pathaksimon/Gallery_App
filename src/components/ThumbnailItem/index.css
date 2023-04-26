@@ -1,0 +1,21 @@
+.photu {
+  height: 40px;
+  width: 40px;
+  opacity: 0.5;
+}
+
+.photu1 {
+  height: 40px;
+  width: 40px;
+  opacity: 1;
+}
+
+.lista {
+  margin: 5px;
+}
+
+.bitta {
+  background-color: white;
+  border: none;
+  padding-left: 0px;
+}
